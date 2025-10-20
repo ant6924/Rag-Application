@@ -9,3 +9,4 @@ faiss-cpu
 streamlit_authenticator
 bcrypt
 mysql-connector-python
+langchain
