@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+pypdf
+faiss-cpu
+streamlit_authenticator
+bcrypt
+mysql-connector-python
