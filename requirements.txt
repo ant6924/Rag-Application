@@ -12,3 +12,4 @@ streamlit
 streamlit_authenticator
 bcrypt
 sentence-transformers
+langchain_classic
